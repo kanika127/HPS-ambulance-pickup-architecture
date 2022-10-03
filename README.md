@@ -77,7 +77,7 @@ You can refer to the `sample_result.txt` to get the idea. The sample result is N
 
 `python3 validator.py`
          OR
-`python3 validator.py input_data.txt outputs/[team_name].txt`
+`python3 validator.py input_data.txt Outputs/[team_name].txt`
 
 Check Submission section on what files to submit. After you create the makefile, you can also validate your code with:
 
