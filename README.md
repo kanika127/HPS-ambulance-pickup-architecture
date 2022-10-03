@@ -7,7 +7,7 @@ The ambulance planning real-time problem is to rescue as many people as possible
 
 In our case, the graph is the Manhattan grid with every street going both ways. It takes a minute to go one block either north-south or east-west. Each hospital has an (x,y) location that you can determine when you see the distribution of victims. The ambulances need not return to the hospital where they begin. Each ambulance can carry up to four people. It takes one minute to load a person and one minute to unload up to four people. Each person will have a rescue time which is the number of minutes from now when the person should be unloaded in the hospital to survive. By the way, this problem is very similar to the vehicle routing problem about which there is an enormous literature and nice code like "jsprit" which was used in 2015 to great effect.
 
-So the data will be in the form:
+The data will be in the form:
 ```angular2html
 person(xloc, yloc, rescuetime)
 hospital(numambulance)
