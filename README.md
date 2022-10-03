@@ -60,7 +60,7 @@ hospital(numambulance)
 3
 ```
 
-**Output:** Once you calculate your results, generate a "team_name.txt" file under "outputs" folder with the following format
+**Output:** Once you calculate your results, generate a `[team_name].txt` file under `Outputs` folder with the following format
 
 ```angular2html
 H1:x_coordinate,y_coordinate
