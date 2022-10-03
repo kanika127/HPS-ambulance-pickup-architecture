@@ -89,4 +89,3 @@ Check Submission section on what files to submit. After you create the makefile,
 Create a makefile for running your code. Your code would be copied to `Solutions` folder. Make sure your makefile includes that path to run the code and prints the result in the `Outputs` folder.
 
 Submit your code file titled `[team_name]_algorithm.extension` and the makefile `[team_name].mk`.
-# HPS-ambulance-pickup-architecture
